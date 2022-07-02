@@ -1,6 +1,6 @@
 # Eğitim Koçum
 
-Bu proje üniversite sınavına hazırlanan öğrenvilerin takiplerini efektif bir şekilde takip edebilemsi amacıyla Flutter SDK'yi kullanılarak oluşturulmaktadır.
+Bu proje üniversite sınavına hazırlanan öğrencilerin takiplerini efektif bir şekilde takip edebilmesi amacıyla Flutter SDK'yi kullanılarak oluşturulmaktadır.
 
 ## Planlanan
 
