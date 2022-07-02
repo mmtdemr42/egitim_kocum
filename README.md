@@ -1,16 +1,21 @@
-# egitim_kocum
+# Eğitim Koçum
 
-A new Flutter project.
+Bu proje üniversite sınavına hazırlanan öğrenvilerin takiplerini efektif bir şekilde takip edebilemsi amacıyla Flutter SDK'yi kullanılarak oluşturulmaktadır.
 
-## Getting Started
+## Planlanan
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu proje için yaklaşık 14 tane ekran olması düşünülmektedir. 
+    1. Splash Ekran
+    2. Anasayfa
+    3. Aylık Planlama
+    4. Haftalık Planlama
+    5. Günlük Planlama
+    6. Deneme Sonuçları Oluşturma
+    7. Deneme Sınavı Sonuçları Takip
+    8. Günlük Takip
+    9. Haftalık Takip
+    10. Aylık Takip
+    11. Konu Takip
+    12. Soru Takip
+    13. Kayıt
+    14. Giriş 
